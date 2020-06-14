@@ -7,12 +7,12 @@ Rent_prediction
 
 
 
-**1. automated weekly report: **
+1. automated weekly report: 
 * visitors' behaviour, num of listings published, num of promotions
 * time series history: active users, new visitors, page views
-**2. product iteration**
+2. product iteration
 * customer feedback
 * page analysis: visitors' time, pages viewed
 *NLP
-**3. predictive analysis**
+3. predictive analysis
 * OKR set 
